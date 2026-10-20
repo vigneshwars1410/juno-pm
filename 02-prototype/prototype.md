@@ -4,7 +4,7 @@
 
 ## Prototype link
 
-_The public share URL from your build tool. No share URL? A screenshot of the working flow is fine, the prompt is what is assessed._
+https://lovable.dev/projects/40a1f0c0-16f1-4bcb-89ae-9ac50f5f5d3b?magic_link=mc_7d5532d4-6788-4493-86ee-ed1e551a5e7a
 
 _____
 
